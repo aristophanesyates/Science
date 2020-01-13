@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D02E4154-8D04-445B-8F7E-3379ECF34D3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\projectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8AC292B5-B107-44C0-BBAF-6BB817AECFD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\project">
+      <UniqueIdentifier>{127C667D-5DE6-46FA-867F-D96DD6C700B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\project\project.Build.cs">
+      <Filter>Source\project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\project\project.cpp">
+      <Filter>Source\project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\project\project.h">
+      <Filter>Source\project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\project\projectGameModeBase.cpp">
+      <Filter>Source\project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\project\projectGameModeBase.h">
+      <Filter>Source\project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\project\Scientist.h">
+      <Filter>Source\project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\project\FightGM.h">
+      <Filter>Source\project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\project\Scientist.cpp">
+      <Filter>Source\project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\project\FightGM.cpp">
+      <Filter>Source\project</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

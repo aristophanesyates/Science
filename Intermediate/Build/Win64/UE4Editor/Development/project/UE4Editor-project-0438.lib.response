@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-project-0438.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"M:\Unreal Projects\project\Intermediate\Build\Win64\projectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\FightGM.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\project.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\projectGameModeBase.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\Scientist.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\FightGM.gen.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\project.init.gen.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\projectGameModeBase.gen.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\Scientist.gen.cpp.obj"
+"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\Default.rc2.res"
+/OUT:"M:\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\UE4Editor-project-0438.lib"
+/INCLUDE:IMPLEMENT_MODULE_project

@@ -1,0 +1,7 @@
+\\StuHomeEven\HomeDrive4$\1700774\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Development\project\Definitions.project.h
+\\stuhomeeven\homedrive4$\1700774\unreal projects\project\source\project\FightGM.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+\\StuHomeEven\HomeDrive4$\1700774\Unreal Projects\project\Intermediate\Build\Win64\UE4Editor\Inc\project\FightGM.generated.h
